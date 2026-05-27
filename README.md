@@ -1,29 +1,39 @@
 <h1 align="left">✨ Hey there, I’m Ahmed Emad!</h1>
 
-<h3 align="left">🔐 Security Analyst L1 | 🌍 GRC Specialist | 🧠 Cybersecurity Engineer | 🛡️ Information Security Analyst | ⚔️ Cybersecurity Specialist</h3>
+<h3 align="left">🔐 SOC Analysr | 🌍 Incident Response Analyst | 🧠 Cybersecurity Instructor | 🛡️ Noob Malware Analyst | ⚔️ Noob DFIR Engineer</h3>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/0x3omda/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
   <img width="8" />
-  <a href="https://eng-ahmed-emad.github.io/AhmedEmad-Dev/" target="_blank">
+  <a href="https://ahmed-emad-nasr.github.io/Portfolio/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=web&label=&color=4382C8&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo" />
-  </a>
-  <img width="8" />
-  <a href="https://t.me/Ahmed3Emad77" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo" />
   </a>
 </div>
 
 <img align="right" height="145" width="145" src="gif/anime-frieren.gif" style="border-radius: 10px;" />
 
+## 👨‍💻 About Me
+
+- 🎓 Bachelor of Computer Science student majoring in **Information Security and Digital Forensics** at Benha University.
+- 💼 Currently a **Cybersecurity Incident Response & Information Security Analyst Intern** at DEPI.
+- 🏆 Recently achieved the **eJPT v2** certification and constantly expanding my expertise in Blue Teaming and Threat Detection.
+- 👨‍🏫 Volunteer **Cybersecurity Instructor** and technical trainer for Google Developers Group (GDG) and Science In Code (SIC).
+- 🎯 Focused on advancing toward a Security Leadership role, mastering SOC Operations, GRC, and Cyber Defense Engineering.
+- 🏃‍♂️ Outside of cyberspace, I'm a competitive athlete representing Al Ahly SC and Banha Club in modern pentathlon, track, and field.
 - 🔭 **Security professional** specializing in **SOC Operations, Information Security, GRC, and Cyber Defense Engineering**.  
 - 📚 Currently enhancing expertise in **Blue Teaming, Threat Detection, and Governance, Risk & Compliance (GRC)**.  
 - 🎯 **Career Goal:** Advancing toward a **Security Leadership role**, mastering both defensive and governance domains.  
 - 🚀 Dedicated to improving **organizational security posture, awareness, and resilience** through practical defense strategies.  
 - 🌱 Passionate about **continuous learning, cross-domain collaboration, and applied cybersecurity innovation**.
+---
 
+## 🚀 Featured Projects
+
+| 🛡️ Enterprise SOC Environment | 🪤 Insider Threat Detection | 🦠 Malware Analysis Strategy |
+| :--- | :--- | :--- |
+| Deployed a comprehensive SOC lab integrating **Wazuh, Suricata, and pfSense**. Achieved centralized log ingestion across multiple endpoints with sub-60s real-time alert detection and a 95%+ true positive rate. | Built a **honeytoken-based** insider threat lab using Wazuh. Successfully detected 100% of simulated insider access attempts across various scenarios, tuning rules to reduce false positives. | Developed an isolated malware lab utilizing **YARA and PEStudio**. Analyzed ransomware samples, extracted IOCs, and optimized Wazuh rules to reduce Mean Time To Detect (MTTD) by 25%. |
 
 ## 🧰 Technical Skills
 <div align="left">
@@ -88,18 +98,18 @@
 
 ## GitHub Analytics
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MostafaSensei106&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&card_width=325&disable_animations=false&theme=catppuccin_latte&locale=en&hide_border=true&order=1" height="145" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MostafaSensei106&locale=en&hide_title=true&layout=compact&card_width=325&langs_count=6&theme=catppuccin_latte&hide_border=true&order=2" height="145" alt="languages graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Emad-Nasr&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&card_width=325&disable_animations=false&theme=catppuccin_latte&locale=en&hide_border=true&order=1" height="145" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmed-Emad-Nasr&locale=en&hide_title=true&layout=compact&card_width=325&langs_count=6&theme=catppuccin_latte&hide_border=true&order=2" height="145" alt="languages graph"/>
 </div>
 
 ## Contribution Activity
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=MostafaSensei106&locale=en&mode=weekly&theme=catppuccin_latte&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Ahmed-Emad-Nasrlocale=en&mode=weekly&theme=catppuccin_latte&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MostafaSensei106/MostafaSensei106/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MostafaSensei106/MostafaSensei106/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MostafaSensei106/MostafaSensei106/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ahmed-Emad-Nasr/Ahmed-Emad-Nasr/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ahmed-Emad-Nasr/Ahmed-Emad-Nasr/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ahmed-Emad-Nasr/Ahmed-Emad-Nasr/output/pacman-contribution-graph.svg">
 </picture>
 
