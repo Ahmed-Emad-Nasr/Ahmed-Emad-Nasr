@@ -1,17 +1,10 @@
 <div align="center">
 
-```
- ██████╗ ██╗  ██╗██████╗  ██████╗ ███╗   ███╗ █████╗ ██████╗ 
-██╔═████╗╚██╗██╔╝╚════██╗██╔═══██╗████╗ ████║██╔══██╗██╔══██╗
-██║██╔██║ ╚███╔╝  █████╔╝██║   ██║██╔████╔██║███████║██║  ██║
-████╔╝██║ ██╔██╗  ╚═══██╗██║   ██║██║╚██╔╝██║██╔══██║██║  ██║
-╚██████╔╝██╔╝ ██╗██████╔╝╚██████╔╝██║ ╚═╝ ██║██║  ██║██████╔╝
- ╚═════╝ ╚═╝  ╚═╝╚═════╝  ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═════╝ 
-```
+<img src="profile.jpg" alt="0x3omda" width="500" style="border-radius: 15px;" />
 
 ### Ahmed Emad Nasr — SOC & DFIR Analyst
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=680&lines=SOC+Analyst+%7C+Blue+Team+Operator;Incident+Response+%7C+DFIR+%7C+Malware+Analysis;Detection+Engineering+%7C+Threat+Hunting+%7C+GRC;eJPT+v2+%7C+CCNA+200-301+%7C+Top+1%25+TryHackMe;%22Detection+is+a+process%2C+not+a+product%22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=680&lines=Cybersecurity+Engineer+%7C+Information+Security+Engineer;Malware+Analyst+%7C+DFIR+Engineer;SOC+Analyst+%7C+Blue+Team+Operator;Incident+Response+%7C+DFIR+%7C+Malware+Analysis;Detection+Engineering+%7C+Threat+Hunting+%7C+GRC;eJPT+v2+%7C+CCNA+200-301+%7C+Top+1%25+TryHackMe;%22Detection+is+a+process%2C+not+a+product%22)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-emad/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00FF41?style=for-the-badge&logo=githubpages&logoColor=black)](https://ahmedemad.dev)
