@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="profile.jpg" alt="0x3omda" width="500" style="border-radius: 15px;" />
+<img src="profile.webp" alt="0x3omda" width="550" style="border-radius: 15px;" />
 
 ### Ahmed Emad Nasr — SOC & DFIR Analyst
 
