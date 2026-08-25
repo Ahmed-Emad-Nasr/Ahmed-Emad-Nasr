@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="profile.webp" alt="0x3omda" width="550" style="border-radius: 15px;" />
+<img src="profile.webp" alt="0x3omda" width="650" style="border-radius: 15px;" />
 
 ### Ahmed Emad Nasr — SOC & DFIR Analyst
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=680&lines=Cybersecurity+Engineer+%7C+Information+Security+Engineer;Malware+Analyst+%7C+DFIR+Engineer;SOC+Analyst+%7C+Blue+Team+Operator;Incident+Response+%7C+DFIR+%7C+Malware+Analysis;Detection+Engineering+%7C+Threat+Hunting+%7C+GRC;eJPT+v2+%7C+CCNA+200-301+%7C+Top+1%25+TryHackMe;%22Detection+is+a+process%2C+not+a+product%22)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-emad/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00FF41?style=for-the-badge&logo=githubpages&logoColor=black)](https://ahmedemad.dev)
-[![Blog](https://img.shields.io/badge/Blog-Read-FF6B35?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@YOUR_HANDLE)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%201%25-CC0000?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/YOUR_HANDLE)
-[![YouTube](https://img.shields.io/badge/YouTube-500%2B%20subs-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@YOUR_HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-emad-Nasr/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00FF41?style=for-the-badge&logo=githubpages&logoColor=black)](https://ahmed-emad-nasr.github.io/Portfolio/)
+[![Blog](https://img.shields.io/badge/Blog-Read-FF6B35?style=for-the-badge&logo=medium&logoColor=white)](https://ahmed-emad-nasr.github.io/Portfolio/blog)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%201%25-CC0000?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Ahmed.Emad.Nasr)
+[![YouTube](https://img.shields.io/badge/YouTube-500%2B%20subs-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@AhmedEmad-0x3omda
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed.em.nasr@gmail.com)
 
 </div>
