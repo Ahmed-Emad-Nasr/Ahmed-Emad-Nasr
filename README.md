@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="profile.webp" alt="0x3omda" width="650" style="border-radius: 15px;" />
+<img src="profile.webp" alt="0x3omda" width="600" style="border-radius: 15px;" />
 
 ### Ahmed Emad Nasr — SOC & DFIR Analyst
 
@@ -10,7 +10,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00FF41?style=for-the-badge&logo=githubpages&logoColor=black)](https://ahmed-emad-nasr.github.io/Portfolio/)
 [![Blog](https://img.shields.io/badge/Blog-Read-FF6B35?style=for-the-badge&logo=medium&logoColor=white)](https://ahmed-emad-nasr.github.io/Portfolio/blog)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%201%25-CC0000?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Ahmed.Emad.Nasr)
-[![YouTube](https://img.shields.io/badge/YouTube-500%2B%20subs-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@AhmedEmad-0x3omda
+[![YouTube](https://img.shields.io/badge/YouTube-500%2B%20subs-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@AhmedEmad-0x3omda)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed.em.nasr@gmail.com)
 
 </div>
