@@ -1,15 +1,18 @@
 <div align="center">
 
-<img src="profile.webp" alt="0x3omda" width="600" style="border-radius: 15px;" />
+<img src="profile.webp" alt="Ahmed Emad Nasr (0x3omda)" width="600" />
 
-### Ahmed Emad Nasr — SOC & DFIR Analyst
+### Ahmed Emad Nasr — Information Security Officer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=680&lines=Cybersecurity+Engineer+%7C+Information+Security+Engineer;Malware+Analyst+%7C+DFIR+Engineer;SOC+Analyst+%7C+Blue+Team+Operator;Incident+Response+%7C+DFIR+%7C+Malware+Analysis;Detection+Engineering+%7C+Threat+Hunting+%7C+GRC;eJPT+v2+%7C+CCNA+200-301+%7C+Top+1%25+TryHackMe;%22Detection+is+a+process%2C+not+a+product%22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=680&lines=Information+Security+Officer;SOC+%7C+Incident+Response+%7C+DFIR;Malware+Analysis+%7C+Detection+Engineering;GRC+%7C+IAM+%7C+Data+Security;Cybersecurity+Instructor+%E2%80%94+AMIT+%26+NTI;eJPT+v2+%7C+CCNA+200-301+%7C+Top+1%25+TryHackMe;%22Detection+is+a+process%2C+not+a+product%22)](https://ahmed-emad-nasr.github.io/)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-emad-Nasr/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00FF41?style=for-the-badge&logo=githubpages&logoColor=black)](https://ahmed-emad-nasr.github.io/Portfolio/)
-[![Blog](https://img.shields.io/badge/Blog-Read-FF6B35?style=for-the-badge&logo=medium&logoColor=white)](https://ahmed-emad-nasr.github.io/Portfolio/blog)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00FF41?style=for-the-badge&logo=githubpages&logoColor=black)](https://ahmed-emad-nasr.github.io/)
+[![Blog](https://img.shields.io/badge/Blog-82_cases-FF6B35?style=for-the-badge&logo=readdotcv&logoColor=white)](https://ahmed-emad-nasr.github.io/blog)
+[![Teaching](https://img.shields.io/badge/Teaching-160h_diploma-00A6B2?style=for-the-badge&logo=googleclassroom&logoColor=white)](https://ahmed-emad-nasr.github.io/teaching)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-emad-nasr/)
+<br/>
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%201%25-CC0000?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Ahmed.Emad.Nasr)
+[![CyberDefenders](https://img.shields.io/badge/CyberDefenders-Profile-1F6FEB?style=for-the-badge&logo=letsencrypt&logoColor=white)](https://cyberdefenders.org/p/ahmed.em.nasr)
 [![YouTube](https://img.shields.io/badge/YouTube-500%2B%20subs-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@AhmedEmad-0x3omda)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed.em.nasr@gmail.com)
 
@@ -22,25 +25,41 @@
 ```yaml
 name        : Ahmed Emad Nasr
 alias       : 0x3omda
-role        : SOC Analyst · IR/DFIR Analyst · Cybersecurity Instructor
+role        : Information Security Officer — GRC · SOC · IR/DFIR · Malware Analysis · IAM
+teaching    : Cybersecurity Instructor @ AMIT Learning & NTI (160-hour SOC diploma)
 education   : B.Sc. CS — InfoSec & Digital Forensics, Benha University (GPA 3.78/4.0)
               Ranked 8th / 900 students
-focus       : Blue Team · SOC Operations · Detection Engineering · DFIR · GRC
 certs       : eJPT v2 (90%) · CCNA 200-301 · RH124 · CCEP · SOC L1+L2 (THM)
 location    : Cairo, Egypt
-open_to     : SOC Analyst (T1/T2) · Incident Response · Detection Engineering
+open_to     : Information Security roles — SOC (T1/T2) · Incident Response · Detection Engineering · GRC
 ```
 
 I build detection labs, break them on purpose, then tune the rules until the noise
-goes away. Most of what I do lives in the repos below — logs, rules, IOCs and writeups
-included, not just screenshots.
+goes away. Every case is written up on [**my blog**](https://ahmed-emad-nasr.github.io/blog) —
+logs, rules, IOCs and the full report, not just screenshots.
+
+---
+
+## `> tail -n 5 /blog/feed.xml`
+
+<!-- The list between the two markers is refreshed every day by
+     .github/workflows/blog-posts.yml from the blog's RSS feed. -->
+<!-- BLOG-POST-LIST:START -->
+- [SOC L1 Alert Triage Walkthrough (SIEM Prioritization, VirusTotal OSINT & LummaStealer Detection)](https://ahmed-emad-nasr.github.io/blog/soc-l1-alert-triage) <sub>Nov 2026</sub>
+- [IR Timeline Analysis Walkthrough (Plaso, Log2Timeline, Pinfo, Psort & Timesketch)](https://ahmed-emad-nasr.github.io/blog/ir-timeline-analysis) <sub>Nov 2026</sub>
+- [Threat Intelligence for SOC Walkthrough (Kibana, Uncoder.io, Sigma & ElastAlert)](https://ahmed-emad-nasr.github.io/blog/threat-intelligence-for-soc) <sub>Nov 2026</sub>
+- [Vulnerability Scanning Tools Walkthrough (Nmap, Nikto & OpenVAS)](https://ahmed-emad-nasr.github.io/blog/vulnerability-scanning-tools) <sub>Oct 2026</sub>
+- [2FA Simple Bypass](https://ahmed-emad-nasr.github.io/blog/2fa-simple-bypass) <sub>Oct 2026</sub>
+<!-- BLOG-POST-LIST:END -->
+
+➜ **[All 82 cases](https://ahmed-emad-nasr.github.io/blog)** · searchable by tool, tactic and platform, mapped to MITRE ATT&CK.
 
 ---
 
 ## `> git log --author=0x3omda --oss`
 
 > **Merged a custom Wazuh detection rule into [SOC Fortress](https://github.com/socfortress) — an open-source SOC project with 1.5k+ stars.**
-> Rule contributed via PR, reviewed and merged upstream. → [View the PR](https://github.com/socfortress/Wazuh-Rules/pulls)
+> Rule contributed via PR, reviewed and merged upstream. → [View the ruleset](https://github.com/socfortress/Wazuh-Rules)
 
 ---
 
@@ -56,7 +75,7 @@ Full detection stack across 5+ endpoints, with a honeytoken-based insider threat
 - **100% detection rate** across 3 insider threat scenarios; cut false positives by **12 alerts/week**
 - Python agent: hashes files → queries VirusTotal → auto-quarantines flagged samples
 
-**[→ Repo](https://github.com/YOUR_USERNAME/REPO)** · **[→ Demo](#)**
+**[→ SOC lab repo](https://github.com/Ahmed-Emad-Nasr/SOC-Environment)** · **[→ Insider threat repo](https://github.com/Ahmed-Emad-Nasr/insider-threat-detection-deception)** · **[→ Case study](https://ahmed-emad-nasr.github.io/blog/soc-env-depi-r3-project)**
 
 ---
 
@@ -68,7 +87,7 @@ Full detection stack across 5+ endpoints, with a honeytoken-based insider threat
 - Built a **PDF parser** that detects and extracts embedded JavaScript payloads — *18+ downloads*
 - Fed IOCs back into Wazuh rules → **MTTD reduced by 25%**
 
-**[→ Repo](https://github.com/YOUR_USERNAME/REPO)** · **[→ Demo](#)**
+**[→ Repo](https://github.com/Ahmed-Emad-Nasr/Malware-Analysis-and-Prevention-Strategy)** · **[→ PDF parser](https://github.com/Ahmed-Emad-Nasr/3omda-PDFparser-tool)** · **[→ Case study](https://ahmed-emad-nasr.github.io/blog/depi-r4-project)**
 
 ---
 
@@ -78,7 +97,7 @@ Full detection stack across 5+ endpoints, with a honeytoken-based insider threat
 - Dynamic risk scoring, automated gap detection and tailored remediation recommendations
 - Automated control mapping across **150+ frameworks** → assessments **15% faster**
 
-**[→ Repo](https://github.com/YOUR_USERNAME/REPO)** · **[→ Demo](#)**
+**[→ Repo](https://github.com/Ahmed-Emad-Nasr/VerifAI360-Compliance-Framwork)** · **[→ Demo video](https://youtu.be/G-Ys6VuV91g)**
 
 ---
 
@@ -88,7 +107,9 @@ Full detection stack across 5+ endpoints, with a honeytoken-based insider threat
 - Python CLI aggregating IOCs and CVEs from multiple feeds into one lookup
 - **10 stars on GitHub** — cuts manual enrichment time per investigation
 
-**[→ Repo](https://github.com/YOUR_USERNAME/REPO)**
+**[→ Repo](https://github.com/Ahmed-Emad-Nasr/Threat-Intelligence-Tool)** · **[→ Demo video](https://youtu.be/u_hezaAwnmM)**
+
+➜ **[Every project](https://ahmed-emad-nasr.github.io/#projects)** on the portfolio, with screenshots and results.
 
 ---
 
@@ -111,6 +132,19 @@ Full detection stack across 5+ endpoints, with a honeytoken-based insider threat
    │SIEM·ATT&CK │   │ ART·ATT&CK │   │ ISO27001·NIST  │
    └────────────┘   └────────────┘   └────────────────┘
 ```
+
+---
+
+## `> cat /teaching/now.txt`
+
+```
+AMIT Learning        Cybersecurity Instructor     160-hour track: CCNA → Linux → Security+ → SANS → SIEM
+NTI                  Cybersecurity Instructor     42+ students · 85%+ pass rate · 120+ lab hours
+GDG                  Best Technical Instructor    1st of 250 instructors · 35+ sessions · 10+ CTF challenges
+YouTube              @AhmedEmad-0x3omda           500+ subscribers · 60,000+ views
+```
+
+➜ **[The full diploma, module by module, and what my students wrote](https://ahmed-emad-nasr.github.io/teaching)** · [بالعربي](https://ahmed-emad-nasr.github.io/ar/teaching)
 
 ---
 
@@ -179,6 +213,8 @@ Full detection stack across 5+ endpoints, with a honeytoken-based insider threat
 | 2025 | HCCDA-Tech Essentials | Huawei | Active |
 | 2024 | CCNA 200-301 | Cisco | Active |
 
+➜ **[The original certificates](https://ahmed-emad-nasr.github.io/gallery)**
+
 ---
 
 ## `> cat /awards/trophies.txt`
@@ -191,7 +227,7 @@ Full detection stack across 5+ endpoints, with a honeytoken-based insider threat
 🌍  HackTheBox University CTF  — 199th / 1,128 (Binary Badlands 2024)
 💻  ECPC                       — Top 250 / 1,500 teams
 🎥  YouTube channel            — 500+ subscribers · 60,000+ views
-📝  Portfolio & blog           — 1,200+ organic visitors · 40+ writeups
+📝  Portfolio & blog           — 1,200+ organic visitors · 82 case studies
 ⭐  DEPI Round 4               — Officially recognized Top Achiever
 ```
 
@@ -200,8 +236,8 @@ Full detection stack across 5+ endpoints, with a honeytoken-based insider threat
 ## `> htop --user=0x3omda`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&include_all_commits=true&count_private=true&theme=chartreuse-dark&hide_border=true" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_USERNAME&layout=compact&langs_count=6&theme=chartreuse-dark&hide_border=true" height="160" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Emad-Nasr&show_icons=true&include_all_commits=true&count_private=true&theme=chartreuse-dark&hide_border=true" height="160" alt="GitHub stats of Ahmed-Emad-Nasr" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmed-Emad-Nasr&layout=compact&langs_count=6&theme=chartreuse-dark&hide_border=true" height="160" alt="Top languages of Ahmed-Emad-Nasr" />
 </div>
 
 ---
@@ -209,7 +245,7 @@ Full detection stack across 5+ endpoints, with a honeytoken-based insider threat
 ## `> uptime`
 
 ```
-Currently   : Detection engineering · DFIR case studies · GRC automation
+Currently   : Detection engineering · DFIR case studies · GRC automation · teaching at AMIT & NTI
 Next targets: BTL1 · SC-200 · CHFI · CEH
 Active since: 2022
 Status      : Learning every single day ↑
@@ -219,9 +255,11 @@ Status      : Learning every single day ↑
 
 <div align="center">
 
-**Looking for a SOC / IR analyst?** I'm open to junior & mid-level blue team roles.
-📫 [ahmed.em.nasr@gmail.com](mailto:ahmed.em.nasr@gmail.com) · [LinkedIn](https://www.linkedin.com/in/ahmed-emad/) · [Portfolio](https://ahmedemad.dev)
+**Hiring for information security?** I'm open to SOC, incident response, detection engineering and GRC roles.
+**Need training for your team?** The diploma, or any module of it — [request a training](mailto:ahmed.em.nasr@gmail.com?subject=Cybersecurity%20training%20request).
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00FF41&label=PROFILE+VIEWS" alt="Profile Views" />
+📫 [ahmed.em.nasr@gmail.com](mailto:ahmed.em.nasr@gmail.com) · [LinkedIn](https://www.linkedin.com/in/ahmed-emad-nasr/) · [Portfolio](https://ahmed-emad-nasr.github.io/) · [Blog](https://ahmed-emad-nasr.github.io/blog)
+
+<img src="https://komarev.com/ghpvc/?username=Ahmed-Emad-Nasr&style=for-the-badge&color=00FF41&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
