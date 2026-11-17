@@ -13,7 +13,7 @@
 <br/>
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%201%25-CC0000?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Ahmed.Emad.Nasr)
 [![CyberDefenders](https://img.shields.io/badge/CyberDefenders-Profile-1F6FEB?style=for-the-badge&logo=letsencrypt&logoColor=white)](https://cyberdefenders.org/p/ahmed.em.nasr)
-[![YouTube](https://img.shields.io/badge/YouTube-500%2B%20subs-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@AhmedEmad-0x3omda)
+[![YouTube](https://img.shields.io/badge/YouTube-500%2B%20subs-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@AhmedEmadNasr-0x3omda)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed.em.nasr@gmail.com)
 
 </div>
@@ -141,7 +141,7 @@ Full detection stack across 5+ endpoints, with a honeytoken-based insider threat
 AMIT Learning        Cybersecurity Instructor     160-hour track: CCNA → Linux → Security+ → SANS → SIEM
 NTI                  Cybersecurity Instructor     42+ students · 85%+ pass rate · 120+ lab hours
 GDG                  Best Technical Instructor    1st of 250 instructors · 35+ sessions · 10+ CTF challenges
-YouTube              @AhmedEmad-0x3omda           500+ subscribers · 60,000+ views
+YouTube              @AhmedEmadNasr-0x3omda           500+ subscribers · 60,000+ views
 ```
 
 ➜ **[The full diploma, module by module, and what my students wrote](https://ahmed-emad-nasr.github.io/ahmed.dev/teaching)** · [بالعربي](https://ahmed-emad-nasr.github.io/ahmed.dev/ar/teaching)
