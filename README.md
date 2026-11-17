@@ -10,6 +10,7 @@
 [![Blog](https://img.shields.io/badge/Blog-83_cases-FF6B35?style=for-the-badge&logo=readdotcv&logoColor=white)](https://ahmed-emad-nasr.github.io/ahmed.dev/blog)
 [![Teaching](https://img.shields.io/badge/Teaching-160h_diploma-00A6B2?style=for-the-badge&logo=googleclassroom&logoColor=white)](https://ahmed-emad-nasr.github.io/ahmed.dev/teaching)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-emad-nasr/)
+[![Wuzzuf](https://img.shields.io/badge/Wuzzuf-Profile-0055D9?style=for-the-badge)](https://wuzzuf.net/me/ahmed-emad-nasr)
 <br/>
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%201%25-CC0000?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Ahmed.Emad.Nasr)
 [![CyberDefenders](https://img.shields.io/badge/CyberDefenders-Profile-1F6FEB?style=for-the-badge&logo=letsencrypt&logoColor=white)](https://cyberdefenders.org/p/ahmed.em.nasr)
@@ -258,7 +259,7 @@ Status      : Learning every single day ↑
 **Hiring for information security?** I'm open to SOC, incident response, detection engineering and GRC roles.
 **Need training for your team?** The diploma, or any module of it — [request a training](mailto:ahmed.em.nasr@gmail.com?subject=Cybersecurity%20training%20request).
 
-📫 [ahmed.em.nasr@gmail.com](mailto:ahmed.em.nasr@gmail.com) · [LinkedIn](https://www.linkedin.com/in/ahmed-emad-nasr/) · [Portfolio](https://ahmed-emad-nasr.github.io/ahmed.dev/) · [Blog](https://ahmed-emad-nasr.github.io/ahmed.dev/blog)
+📫 [ahmed.em.nasr@gmail.com](mailto:ahmed.em.nasr@gmail.com) · [LinkedIn](https://www.linkedin.com/in/ahmed-emad-nasr/) · [Wuzzuf](https://wuzzuf.net/me/ahmed-emad-nasr) · [Portfolio](https://ahmed-emad-nasr.github.io/ahmed.dev/) · [Blog](https://ahmed-emad-nasr.github.io/ahmed.dev/blog)
 
 <img src="https://komarev.com/ghpvc/?username=Ahmed-Emad-Nasr&style=for-the-badge&color=00FF41&label=PROFILE+VIEWS" alt="Profile views" />
 
